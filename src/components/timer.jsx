@@ -126,4 +126,3 @@ clearInterval(this.timer);
 }
 
 export default Timer;
->>>>>>> 4cb2a9d2c916de309e5ebeb1f4920bfcaf5c6d80
